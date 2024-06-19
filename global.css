@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  line-height: normal;
+  background-image: url('overlay_BG.png'); /* Path to your overlay image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #F9FAFB;
+  cursor:cell;
+}
+
+
+:root {
+  /* fonts */
+  --display-xs-medium: "Plus Jakarta Sans";
+
+  /* font sizes */
+  --display-xs-medium-size: 24px;
+  --font-size-lgi: 19px;
+  --display-md-medium-size: 36px;
+  --font-size-3xl: 22px;
+  --font-size-10xl: 29px;
+  --text-lg-medium-size: 18px;
+  --display-lg-regular-size: 48px;
+  --font-size-19xl: 38px;
+  --font-size-77xl: 96px;
+  --display-xl-bold-size: 60px;
+  --font-size-xl: 20px;
+  --text-md-medium-size: 16px;
+  --display-sm-regular-size: 30px;
+
+  /* Colors */
+  --gray-50: #f3f4f6;
+  --gray-400: #6b7280;
+  --gray-600: #374151;
+  --color-black: #000;
+  --gray-300: #9ca3af;
+  --web-b1: #3f84e3;
+  --gray-700: #1f2937;
+
+  /* Gaps */
+  --gap-13xl: 32px;
+  --gap-base: 16px;
+  --gap-5xl: 24px;
+  --gap-xl: 20px;
+  --gap-33xl: 52px;
+  --gap-7xl: 26px;
+  --gap-xs: 12px;
+
+  /* Paddings */
+  --padding-8xl: 27px;
+  --padding-4xs: 9px;
+}
