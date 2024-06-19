@@ -298,7 +298,7 @@ a:hover {
   align-items: flex-start;
   justify-content: flex-start;
   gap: var(--gap-xs);
-  margin-left: 100px; /* Adjust this value as needed */
+  margin-left: 50px; /* Adjust this value as needed */
 }
 .frame-wrapper1 {
   width: 501px;
