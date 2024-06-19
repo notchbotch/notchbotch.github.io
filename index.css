@@ -309,6 +309,7 @@ a:hover {
   flex-shrink: 0;
 }
 .projects {
+  opacity:0;
   margin: 0;
   margin-left: 117px;
   margin-bottom: auto;
