@@ -884,4 +884,12 @@ a:hover {
   }
 }
 
+.wish-to-have-link {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Inherit text color */
+}
 
+.wish-to-have-link:hover .wish-to-have {
+  color: #3F84E3; /* Change text color on hover, or any other style you want */
+  cursor: pointer; /* Change cursor to pointer */
+}
