@@ -217,6 +217,7 @@ a:hover {
   flex-direction: column;
 }
 .frame-div {
+  margin-left: 100px;
   align-self: stretch;
   gap: var(--gap-xs);
 }
